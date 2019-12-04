@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('muka');
+    return view('tes');
 });
